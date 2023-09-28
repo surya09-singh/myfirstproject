@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "name": "surya",
+      "email": "surya@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "pujara",
+      "email": "pujara@gmail.com",
+      "password": "1234",
+      "id": 15
+    },
+    {
+      "email": "surya@gmail.com",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "email": "surya@gmail.com",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "email": "sakshi@gmail.com",
+      "password": "$2a$10$5PKiVo.g8p1xmFTOo7PFyekzv.g/8Gwvcyn3.aDvWNHVnv4zAwkn2",
+      "name": "sakshi",
+      "id": 18
+    },
+    {
+      "email": "modi12@gmail.com",
+      "password": "$2a$10$emDHIEVGur9YwwaGs5sW5eWtFf.5IPV9jKQUwowey6s62lTzukb/q",
+      "name": "modi",
+      "id": 19
+    }
+  ],
+  "transition": [
+    {
+      "detail": "text here",
+      "amount": "1000",
+      "date": "2023-09-11",
+      "type": "income",
+      "id": 1
+    },
+    {
+      "detail": "text agiann",
+      "amount": "100",
+      "date": "2023-09-18",
+      "type": "expence",
+      "id": 2
+    },
+    {
+      "detail": "text agiannmdsjgjd",
+      "amount": "1000",
+      "date": "2023-09-18",
+      "type": "expence",
+      "id": 3
+    },
+    {
+      "detail": "crypto",
+      "amount": "1000",
+      "type": "income",
+      "id": 4
+    },
+    {
+      "detail": "query",
+      "amount": "1200",
+      "type": "income",
+      "id": 5
+    },
+    {
+      "detail": "test here ",
+      "amount": "1000",
+      "date": "2023-09-18",
+      "type": "income",
+      "id": 6
+    }
+  ]
+}
